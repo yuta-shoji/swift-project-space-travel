@@ -1,6 +1,6 @@
 # 🚀 Space Travel Application
 
-![NASA_API_PHOTO](./space-photo-for-readme.png)
+# ![NASA_API_PHOTO](./space-photo-for-readme.png)
 
 ## 📱アプリ概要
 
