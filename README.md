@@ -1,6 +1,6 @@
 # 🚀 Space Travel Application
 
-![NASA_API_PHOTO](./スクリーンショット 2022-06-24 10.35.13.png)
+![NASA_API_PHOTO](./space-photo-for-readme.png)
 
 ## 📱アプリ概要
 
